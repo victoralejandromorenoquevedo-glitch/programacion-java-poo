@@ -28,4 +28,8 @@ public class PerfilRedSocial {
 			estadoActual = EstadoPerfil.BLOQUEADA; 
 		}
 	}
+	
+	public boolean cuentaVerificada()
+	
+	
 }
