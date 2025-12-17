@@ -18,7 +18,7 @@ public class PerfilRedSocial {
 				+ estadoActual + cuentaVerificada);
 	}
 
-	public void anadirSeguidores(int numeroSeguidores, int nuevosSeguidores) {
+	public void anadirSeguidores(int nuevosSeguidores) {
 		this.numeroSeguidores += nuevosSeguidores;
 	}
 	
